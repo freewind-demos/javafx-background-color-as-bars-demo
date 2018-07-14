@@ -1,5 +1,5 @@
-JavaFX Hello World Demo
-=======================
+JavaFX Background Color Demo
+============================
 
-Show a window with `Hello, JavaFX` label.
+Set background color of an component by code and css.
 
