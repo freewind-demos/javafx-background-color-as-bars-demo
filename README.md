@@ -1,5 +1,5 @@
-JavaFX Background Color Demo
-============================
+JavaFX Background Color as Bar Demo
+===================================
 
-Set background color of an component by code and css.
+Use `LinearGradient` to fill the background.
 

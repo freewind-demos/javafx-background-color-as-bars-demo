@@ -11,6 +11,12 @@
         <maven.compiler.source>1.8</maven.compiler.source>
         <maven.compiler.target>1.8</maven.compiler.target>
     </properties>
+    <repositories>
+        <repository>
+            <id>aliyun-jcenter</id>
+            <url>http://maven.aliyun.com/nexus/content/repositories/jcenter/</url>
+        </repository>
+    </repositories>
     <dependencies>
         <dependency>
             <groupId>commons-codec</groupId>
@@ -26,6 +32,11 @@
             <groupId>commons-io</groupId>
             <artifactId>commons-io</artifactId>
             <version>2.6</version>
+        </dependency>
+        <dependency>
+            <groupId>freewind.github</groupId>
+            <artifactId>lost-list-creator</artifactId>
+            <version>0.5.0</version>
         </dependency>
     </dependencies>
 </project>
